@@ -1,2 +1,0 @@
-model name	: AMD Ryzen 5 5500
-model name	: AMD Ryzen 5 5500
